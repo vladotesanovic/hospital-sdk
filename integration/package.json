@@ -1,0 +1,19 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "@hospital-sdk/doctor": "0.0.4-alpha.0",
+    "@hospital-sdk/patient": "0.0.4-alpha.0",
+    "@hospital-sdk/scheduler": "0.0.4-alpha.0"
+  }
+}

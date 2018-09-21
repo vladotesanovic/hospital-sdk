@@ -6,6 +6,7 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/doctor.js",
+  "typings": "lib/doctor.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"

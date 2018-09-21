@@ -6,6 +6,7 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/scheduler.js",
+  "typings": "lib/scheduler.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
