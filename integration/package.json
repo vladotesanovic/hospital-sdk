@@ -12,8 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "ts-node": "^7.0.1",
-    "@hospital-sdk/doctor": "0.0.4-alpha.0",
-    "@hospital-sdk/patient": "0.0.4-alpha.0",
-    "@hospital-sdk/scheduler": "0.0.4-alpha.0"
+    "@hospital-sdk/doctor": "^0.0.4",
+    "@hospital-sdk/patient": "^0.0.4",
+    "@hospital-sdk/scheduler": "^0.0.4"
   }
 }
