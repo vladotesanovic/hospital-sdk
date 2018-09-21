@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const patient = require('patient');
+const Patient = require('@hospital-sdk/patient').Patient;
 
 // TODO: DEMONSTRATE API
 ```

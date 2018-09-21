@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const scheduler = require('scheduler');
+const Scheduler = require('@hospital-sdk/scheduler').Scheduler;
 
 // TODO: DEMONSTRATE API
 ```
