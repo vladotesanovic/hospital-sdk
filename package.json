@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.4.0"
+  },
+  "scripts": {
+    "publish": "lerna run tsc && lerna publish"
+  }
+}

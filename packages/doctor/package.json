@@ -1,0 +1,21 @@
+{
+  "name": "@hospital-sdk/doctor",
+  "version": "0.0.2-alpha.0",
+  "description": "> TODO: description",
+  "author": "Vlado Tesanovic <vlado.tesanovic@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/doctor.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "44f5d386ec47b861efa8656a8ff9adb8ad7f6c40"
+}
